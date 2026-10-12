@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/Pylons/pyramid_handlers/commit/b5023e666e22f4e81e0a3db43d682be227d2a737",
       "git:hexsha": "b5023e666e22f4e81e0a3db43d682be227d2a737",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-12T05:24:32.721753+00:00"
     },
     {
       "@id": "https://repolex.ai/r/Pylons/pyramid_handlers/commit/57064a627b9044ec5d395fb8a6bc549b5a5bcd88",
